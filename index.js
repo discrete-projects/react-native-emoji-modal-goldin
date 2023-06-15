@@ -81,7 +81,7 @@ const styles = react_native_1.StyleSheet.create({
         justifyContent: 'center',
     },
     background: {
-        backgroundColor: '#00000077',
+        backgroundColor: '#141414',
         position: 'absolute',
         top: 0,
         bottom: 0,
@@ -134,7 +134,7 @@ const styles = react_native_1.StyleSheet.create({
     },
     headerText: {
         padding: PADDING,
-        color: 'black',
+        color: '#979797',
         fontWeight: 'bold',
         justifyContent: 'center',
         textAlignVertical: 'center',

@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
   },
 
   background: {
-    backgroundColor: '#00000077',
+    backgroundColor: '#141414',
     position: 'absolute',
     top: 0,
     bottom: 0,
@@ -178,7 +178,7 @@ const styles = StyleSheet.create({
 
   headerText: {
     padding: PADDING,
-    color: 'black',
+    color: '#979797',
     fontWeight: 'bold',
     justifyContent: 'center',
     textAlignVertical: 'center',
